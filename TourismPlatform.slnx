@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Tourism.API/Tourism.API.csproj" />
+  <Project Path="Tourism.Core/Tourism.Core.csproj" />
+  <Project Path="Tourism.Repository/Tourism.Repository.csproj" />
+  <Project Path="Tourism.Service/Tourism.Service.csproj" />
+</Solution>
